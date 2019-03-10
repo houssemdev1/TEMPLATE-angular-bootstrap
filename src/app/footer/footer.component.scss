@@ -1,0 +1,110 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(../../assets/font/Quicksand-Bold.otf);
+  }
+
+#section3{
+   
+
+width: 100%;
+height:1000px;
+margin-top: 203px;
+
+
+
+
+}
+#container1{
+    position: relative;
+width: 100%;
+height: 475px;
+background: linear-gradient(216.15deg, #292984 0%, #8F68FC 100%);
+}
+
+#container2{
+    position: absolute; 
+width: 100%;
+height:520px;
+z-index: -1;
+background: linear-gradient(289.4deg, #8F68FC 0%, #292984 100.69%);
+}
+#cont{
+    position: absolute; 
+    margin-top: 403px;
+    width:1110px ;
+    height:150px ;
+    margin-right: 165px;
+    margin-left: 165px;
+background: white;
+border-radius: 5px;
+
+}
+#pbtn{
+    
+    text-align: center;
+    font-family: myFirstFont;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    font-size: 14px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 10px;
+    color: #FFFFFF;
+}
+#btn_ajout{
+
+   
+    width: 255 px;
+    height: 50px;
+    background: linear-gradient(216.15deg, #292984 0%, #8F68FC 100%);
+    border-radius: 5px;
+    float: left;
+
+}
+#td_btn{
+   padding-top: 40px;
+}
+#title{
+    margin-top: 42px;
+    margin-left: 58px;
+
+font-family:  myFirstFont;
+font-style: normal;
+font-weight: bold;
+line-height: normal;
+font-size: 22px;
+
+color: #8F68FC;
+}
+#prg1{
+    margin-top: 17px;
+    margin-left: 58px;
+    margin-right: 283px;
+    font-family: myFirstFont;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+font-size: 18px;
+
+color: #9997B1;
+}
+
+#footer_table{
+    margin-top: 171px;
+    margin-left: 165px;
+    margin-right: 182px;
+}
+.table{
+    border: 0px
+}
+
+#container3{
+   
+width: 1440px;
+height: 70px;
+left: 0px;
+margin-top: 450px;
+
+background: rgba(41, 41, 132, 0.1);
+}
